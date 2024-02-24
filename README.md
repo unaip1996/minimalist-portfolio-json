@@ -1,3 +1,5 @@
+<p>This is a fork of <a href="https://github.com/midudev/minimalist-portfolio-json">hminimalist-portfolio-json</a> from @midudev. All credits of the development go to him.</p>
+
 
 
 <div align="center">
