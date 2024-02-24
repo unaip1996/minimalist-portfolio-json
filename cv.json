@@ -235,5 +235,18 @@
     "reference": "Reference…"
   }],
   "projects": [
+    {
+      "name": "App Logística Java",
+      "isActive": true,
+      "description": "Aplicación de escritorio para gestión de logística",
+      "highlights": [
+        "Escritorio",
+        "Java",
+        "Hibernate",
+        "AWS"
+      ],
+      "url": null,
+      "github": "https://github.com/unaip1996/Proyecto_Logistica"
+    }
   ]
 }
