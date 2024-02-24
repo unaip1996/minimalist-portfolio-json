@@ -1,5 +1,3 @@
-<p>This is a fork of <a href="https://github.com/midudev/minimalist-portfolio-json">hminimalist-portfolio-json</a> from @midudev. All credits of the development go to him.</p>
-
 
 
 <div align="center">
@@ -50,8 +48,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 </div>
 
-<img src="portada.png"></img>
-
 ## 🛠️ Stack
 
 - [**Astro**](https://astro.build/) - El framework web de la nueva época.
@@ -97,6 +93,9 @@ pnpm dev
 | ⚙️  | `preview`        | Vista previa en local `localhost:4321` |
 
 
+## Agradecimientos
+
+<p>This is a fork of <a href="https://github.com/midudev/minimalist-portfolio-json">hminimalist-portfolio-json</a> from @midudev. All credits of the development go to him.</p>
 
 ## 🔑 Licencia
 
